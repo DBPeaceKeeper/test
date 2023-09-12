@@ -2,9 +2,4 @@ Hello Git hell World
 branch hello
 branch apple
 remote origin
-<<<<<<< HEAD
 jun
-=======
-최경호
-ㅋㅋㅋㅋㅋㅋ
->>>>>>> 91d9a002c6997dedf04806fdfac908ae5bc1782a
