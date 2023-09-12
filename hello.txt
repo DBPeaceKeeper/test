@@ -2,4 +2,4 @@ Hello Git hell World
 branch hello
 branch apple
 remote origin
-Rud2K
+최경호
