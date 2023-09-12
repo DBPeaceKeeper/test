@@ -2,7 +2,8 @@ Hello Git hell World
 branch hello
 branch apple
 remote origin
-<<<<<<< HEAD
+lee
+찐 lee
 Rud2K
 <<<<<<< HEAD
 =======
@@ -10,8 +11,11 @@ Rud2K
 ㅋㅋㅋㅋㅋㅋ
 =======
 bong
-=======
 최경호
 ㅋㅋㅋㅋㅋㅋ
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 73c6e9682a326cfa9c4404c85f4e312346c7b2ed
 성란쌤 안녕하세요
+JuMuGwan is comming...Watch Out!
