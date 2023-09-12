@@ -2,5 +2,10 @@ Hello Git hell World
 branch hello
 branch apple
 remote origin
+<<<<<<< HEAD
 Rud2K
+=======
+최경호
+ㅋㅋㅋㅋㅋㅋ
 JuMuGwan is comming...
+Watch Out!
