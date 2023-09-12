@@ -3,7 +3,14 @@ branch hello
 branch apple
 remote origin
 <<<<<<< HEAD
-jungcj123
+<<<<<<< HEAD
+
+
 =======
 Rud2K
 >>>>>>> 2b9d1c33fc5774de7ef816a888612f6b9a53fd0b
+=======
+최경호
+ㅋㅋㅋㅋㅋㅋ
+>>>>>>> 91d9a002c6997dedf04806fdfac908ae5bc1782a
+chan jin
