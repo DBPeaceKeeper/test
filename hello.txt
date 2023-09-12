@@ -4,6 +4,7 @@ branch apple
 remote origin
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 =======
@@ -14,3 +15,22 @@ Rud2K
 ㅋㅋㅋㅋㅋㅋ
 >>>>>>> 91d9a002c6997dedf04806fdfac908ae5bc1782a
 chan jin
+=======
+lee
+찐 lee
+Rud2K
+<<<<<<< HEAD
+=======
+최경호
+ㅋㅋㅋㅋㅋㅋ
+=======
+bong
+최경호
+ㅋㅋㅋㅋㅋㅋ
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 73c6e9682a326cfa9c4404c85f4e312346c7b2ed
+성란쌤 안녕하세요
+JuMuGwan is comming...Watch Out!
+>>>>>>> 575b07f605a7e8580f02ef7327a6428972f13df5
