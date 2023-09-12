@@ -2,3 +2,5 @@ Hello Git hell World
 branch hello
 branch apple
 remote origin
+lee
+찐 lee
