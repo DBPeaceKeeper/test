@@ -4,8 +4,14 @@ branch apple
 remote origin
 <<<<<<< HEAD
 Rud2K
+<<<<<<< HEAD
 =======
 최경호
 ㅋㅋㅋㅋㅋㅋ
-JuMuGwan is comming...
-Watch Out!
+=======
+bong
+=======
+최경호
+ㅋㅋㅋㅋㅋㅋ
+=======
+성란쌤 안녕하세요
